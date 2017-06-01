@@ -1,0 +1,85 @@
+
+body {
+  margin: 10px 10px 10px 10px;
+  background-color:whitesmoke;
+  font-size:16px;
+}
+p{
+    font-size:14px;
+    line-height:2em;
+    margin-bottom:32px;
+    margin-right:10px;
+}
+.mainImage{
+  width:600px; 
+  float:right;
+  padding-left:0px;
+  border-top:10px;
+  box-shadow: 0px 0px 3px  brown
+  
+  
+
+
+}
+.rogersName{
+    font-size:50px;
+    -webkit-box-shadow: 0px  5px 0px black;
+    color:brown;
+    padding-left:335px;
+
+}
+.rogersName:hover{
+    color:black;
+    padding-left:335px
+
+}
+.distinct{
+    font:Times Helvetica;
+    font-size:35px;
+    padding:0 0 -500px 500px;
+    padding-left:240px;
+}
+
+.distinct:hover{
+    color:brown;
+    font:Times Helvetica;
+    font-size:35px;
+    padding:0 0 -500px 500px;
+    padding-left:240px;
+}
+
+L-Pargraph-Header{
+    float:left;
+    position:relative;
+
+}
+.left-paragraph-container{
+    float:center;
+    position:relative;
+}
+
+.R-Pargraph-Header{
+    width:40%;
+    float:right;
+    position:relative;
+    
+
+}
+.right-paragraph-container{
+    float:right;
+    position:absolute;
+
+
+}
+.Death{
+    font-size:18px;
+    color:purple;
+    
+}
+
+#2ndImage{
+    width:20%;
+    height:40px;
+
+
+}
